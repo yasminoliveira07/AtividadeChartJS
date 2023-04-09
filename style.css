@@ -1,0 +1,14 @@
+#div_datas{
+    display: flex;
+    flex-direction: row;
+    transform: scale(0.65);
+    margin-left: -180px;
+    margin-right: 180px;
+}
+
+#div_datas canvas{
+    width: 100%;
+    height: 150%;
+    position: relative;
+}
+
